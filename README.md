@@ -58,16 +58,8 @@
 ```
 linkedin-job-market-analysis/
 ├── README.md
-├── python/
-│   └── data_cleaning.ipynb       ← automated cleaning of 5 raw CSVs
-├── sql/
-│   └── analysis_queries.sql      ← 8 analysis queries with comments
-├── excel/
-│   └── LinkedIn_JobMarket_Analysis_v2.xlsx
-├── powerbi/
-│   └── LinkedIn_JobMarket_Dashboard.pbix
 ├── data/
-│   └── processed/
+│   └── processed/               ← 8 query result CSVs
 │       ├── q1_domain_demand.csv
 │       ├── q2_work_type.csv
 │       ├── q3_salary_experience.csv
@@ -76,13 +68,21 @@ linkedin-job-market-analysis/
 │       ├── q6_domain_salary.csv
 │       ├── q7_competition.csv
 │       └── q8_opportunity_score.csv
+├── python/
+│   └── data_cleaning.ipynb      ← Step 1: automated cleaning of 5 raw CSVs
+├── sql/
+│   └── analysis_queries.sql     ← Step 2: 8 analysis queries
+├── excel/
+│   └── LinkedIn_JobMarket_Analysis_v2.xlsx  ← Step 3: KPI workbook
+├── powerbi/
+│   └── LinkedIn_JobMarket_Dashboard.pbix    ← Step 4: 4-page dashboard
 ├── screenshots/
 │   ├── dashboard_overview.png
 │   ├── dashboard_domains.png
 │   ├── dashboard_salary.png
 │   └── dashboard_opportunity.png
 └── insights/
-    └── business_recommendations.md
+    └── business_recommendations.md          ← Step 5: written findings
 ```
 
 ---
