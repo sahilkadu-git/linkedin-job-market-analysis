@@ -1,0 +1,33 @@
+domain,job_count,avg_salary,min_salary,max_salary,salary_rank
+"Legal",82,100487,0,925000,1
+"Accounting/Auditing",164,47789,0,280000,2
+"Strategy/Planning",40,45912,0,180000,3
+"Marketing",128,45680,0,375000,4
+"Public Relations",28,44300,0,350000,5
+"Product Management",36,43819,0,243000,6
+"Finance",239,41916,0,280000,7
+"Science",22,40765,0,185000,8
+"Human Resources",92,40763,0,187200,9
+"General Business",34,37641,0,125000,10
+"Project Management",132,36832,0,218400,11
+"Research",87,35136,0,185000,12
+"Writing/Editing",33,34979,0,160500,13
+"Design",71,34239,0,196600,14
+"Production",21,32552,0,218400,15
+"Analyst",126,32110,0,175000,16
+"Engineering",349,32078,0,210000,17
+"Information Technology",676,30526,0,290913,18
+"Consulting",57,28882,0,172500,19
+"Sales",523,27310,0,375000,20
+"Customer Service",64,26207,0,120000,21
+"Business Development",368,26054,0,280000,22
+"Art/Creative",40,25957,0,122500,23
+"Administrative",137,23615,0,167500,24
+"Training",55,21671,0,186750,25
+"Supply Chain",28,21457,0,160775,26
+"Other",300,20296,0,230000,27
+"Health Care Provider",417,19964,0,557500,28
+"Management",564,19117,0,350000,29
+"Quality Assurance",51,18022,0,124800,30
+"Education",54,16335,0,95000,31
+"Manufacturing",507,14002,0,215000,32

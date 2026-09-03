@@ -1,0 +1,34 @@
+domain,job_count,avg_applicants,avg_views,apply_rate_pct
+"Supply Chain",12,43.8,188.6,23.2
+"Writing/Editing",17,17.0,71.5,23.8
+"Public Relations",13,16.5,85.9,19.2
+"Information Technology",298,14.2,55.6,25.6
+"Engineering",146,13.7,51.9,26.3
+"Project Management",60,12.3,53.3,23.1
+"Analyst",55,10.9,44.9,24.2
+"Strategy/Planning",19,10.8,60.3,17.9
+"Marketing",66,9.9,52.9,18.6
+"Research",41,9.4,43.2,21.7
+"Product Management",26,9.3,47.5,19.5
+"Consulting",29,9.3,51.0,18.2
+"Sales",163,8.5,42.2,20.1
+"Human Resources",46,8.0,41.4,19.2
+"Business Development",103,7.9,42.6,18.6
+"Art/Creative",19,7.6,44.6,17.1
+"Design",34,7.0,37.3,18.8
+"Administrative",48,6.2,46.8,13.3
+"Quality Assurance",22,6.2,33.0,18.8
+"Management",102,5.6,36.5,15.3
+"Training",13,5.0,40.0,12.5
+"Manufacturing",95,4.7,29.0,16.2
+"Other",55,4.5,30.5,14.7
+"Finance",81,4.3,31.4,13.6
+"Legal",29,4.2,37.0,11.3
+"Production",11,4.2,31.1,13.5
+"Accounting/Auditing",64,4.1,32.2,12.8
+"Science",13,4.0,37.0,10.8
+"General Business",12,4.0,31.3,12.8
+"Customer Service",25,3.8,28.8,13.3
+"Advertising",11,3.4,23.2,14.5
+"Health Care Provider",33,2.5,19.5,13.0
+"Education",12,2.0,25.2,7.9
