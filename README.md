@@ -7,8 +7,12 @@
 
 ---
 
-## 🔗 Live Dashboard
-👉 [View Interactive Power BI Dashboard](https://github.com/sahilkadu-git/linkedin-job-market-analysis/tree/main/powerbi)
+## 📊 Dashboard Preview
+> Built with Power BI Desktop — 4 interactive pages with DAX measures, 
+> slicers, scatter chart with quadrant lines, and opportunity scoring.  
+> Full `.pbix` file available in the `/powerbi/` folder — open with Power BI Desktop (free).
+
+> 📸 Screenshots of all 4 pages below in the Dashboard Screenshots section.
 
 ---
 
